@@ -1,0 +1,31 @@
+
+input {
+    padding-right: 50px;
+}
+
+div {
+    padding-top: 20px;
+}
+
+figcaption {
+    padding-top: 40px;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+p {
+    
+        padding-top: 20px;
+        color: navy;
+        text-indent: 30px;
+        text-transform: uppercase;
+        font-size: 40px;
+}
+
+div#imageContainer {
+    height: 160px;  
+    text-align: center;
+    display: table-cell;
+}
